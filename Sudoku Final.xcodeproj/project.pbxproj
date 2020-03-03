@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		612720D51CE64CC2005E2537 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 612720D41CE64CC2005E2537 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		612720CF1CE64CC2005E2537 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		612720D11CE64CC2005E2537 /* Sudoku Final */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Sudoku Final"; sourceTree = BUILT_PRODUCTS_DIR; };
+		612720D41CE64CC2005E2537 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		61ADFA8A1CEAED96003CEDE1 /* 1 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 1; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/1"; sourceTree = "<absolute>"; };
+		61ADFA8B1CEAED96003CEDE1 /* 2 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 2; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/2"; sourceTree = "<absolute>"; };
+		61ADFA8C1CEAED96003CEDE1 /* 3 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 3; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/3"; sourceTree = "<absolute>"; };
+		61ADFA8D1CEAED96003CEDE1 /* 4 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 4; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/4"; sourceTree = "<absolute>"; };
+		61ADFA8E1CEAED96003CEDE1 /* 5 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 5; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/5"; sourceTree = "<absolute>"; };
+		61ADFA8F1CEAED96003CEDE1 /* 6 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 6; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/6"; sourceTree = "<absolute>"; };
+		61ADFA901CEAED96003CEDE1 /* 7 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 7; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/7"; sourceTree = "<absolute>"; };
+		61ADFA911CEAED96003CEDE1 /* 8 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 8; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/8"; sourceTree = "<absolute>"; };
+		61ADFA921CEAED96003CEDE1 /* 9 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 9; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/9"; sourceTree = "<absolute>"; };
+		61ADFA931CEAED96003CEDE1 /* 10 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 10; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/10"; sourceTree = "<absolute>"; };
+		61ADFA941CEAED96003CEDE1 /* 11 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 11; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/11"; sourceTree = "<absolute>"; };
+		61ADFA951CEAED96003CEDE1 /* 12 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 12; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/12"; sourceTree = "<absolute>"; };
+		61ADFA961CEAED96003CEDE1 /* 13 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 13; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/13"; sourceTree = "<absolute>"; };
+		61ADFA971CEAED96003CEDE1 /* 14 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 14; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/14"; sourceTree = "<absolute>"; };
+		61ADFA981CEAED96003CEDE1 /* 15 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 15; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/15"; sourceTree = "<absolute>"; };
+		61ADFA991CEAED96003CEDE1 /* 16 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 16; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/16"; sourceTree = "<absolute>"; };
+		61ADFA9A1CEAED96003CEDE1 /* 17 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 17; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/17"; sourceTree = "<absolute>"; };
+		61ADFA9B1CEAED96003CEDE1 /* 18 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 18; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/18"; sourceTree = "<absolute>"; };
+		61ADFA9C1CEAED96003CEDE1 /* 19 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 19; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/19"; sourceTree = "<absolute>"; };
+		61ADFA9D1CEAED96003CEDE1 /* 20 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 20; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/20"; sourceTree = "<absolute>"; };
+		61ADFA9E1CEAED96003CEDE1 /* 21 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 21; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/21"; sourceTree = "<absolute>"; };
+		61ADFA9F1CEAED96003CEDE1 /* 22 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 22; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/22"; sourceTree = "<absolute>"; };
+		61ADFAA01CEAED96003CEDE1 /* 23 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 23; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/23"; sourceTree = "<absolute>"; };
+		61ADFAA11CEAED96003CEDE1 /* 24 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 24; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/24"; sourceTree = "<absolute>"; };
+		61ADFAA21CEAED96003CEDE1 /* 25 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 25; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/25"; sourceTree = "<absolute>"; };
+		61ADFAA31CEAED96003CEDE1 /* 26 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 26; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/26"; sourceTree = "<absolute>"; };
+		61ADFAA41CEAED96003CEDE1 /* 27 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 27; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/27"; sourceTree = "<absolute>"; };
+		61ADFAA51CEAED96003CEDE1 /* 28 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 28; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/28"; sourceTree = "<absolute>"; };
+		61ADFAA61CEAED96003CEDE1 /* 29 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 29; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/29"; sourceTree = "<absolute>"; };
+		61ADFAA71CEAED96003CEDE1 /* 30 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 30; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/30"; sourceTree = "<absolute>"; };
+		61ADFAA81CEAED96003CEDE1 /* 31 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 31; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/31"; sourceTree = "<absolute>"; };
+		61ADFAA91CEAED96003CEDE1 /* 32 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 32; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/32"; sourceTree = "<absolute>"; };
+		61ADFAAA1CEAED96003CEDE1 /* 33 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 33; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/33"; sourceTree = "<absolute>"; };
+		61ADFAAB1CEAED96003CEDE1 /* 34 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 34; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/34"; sourceTree = "<absolute>"; };
+		61ADFAAC1CEAED96003CEDE1 /* 35 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 35; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/35"; sourceTree = "<absolute>"; };
+		61ADFAAD1CEAED96003CEDE1 /* 36 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 36; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/36"; sourceTree = "<absolute>"; };
+		61ADFAAE1CEAED96003CEDE1 /* 37 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 37; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/37"; sourceTree = "<absolute>"; };
+		61ADFAAF1CEAED96003CEDE1 /* 38 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 38; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/38"; sourceTree = "<absolute>"; };
+		61ADFAB01CEAED96003CEDE1 /* 39 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 39; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/39"; sourceTree = "<absolute>"; };
+		61ADFAB11CEAED96003CEDE1 /* 40 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 40; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/40"; sourceTree = "<absolute>"; };
+		61ADFAB21CEAED96003CEDE1 /* createNewFileTemplate.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = createNewFileTemplate.txt; path = "/Users/JoshGialis/Desktop/PROJECT4/PROJECT4/../../../Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/createNewFileTemplate.txt"; sourceTree = "<absolute>"; };
+		61ADFAB31CEAED96003CEDE1 /* PROJECT4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; name = PROJECT4; path = "/Users/JoshGialis/Library/Developer/Xcode/DerivedData/PROJECT4-amnxgizwkozsgfaidkqkzjnmiwlx/Build/Products/Debug/PROJECT4"; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		612720CE1CE64CC2005E2537 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		612720C81CE64CC2005E2537 = {
+			isa = PBXGroup;
+			children = (
+				612720D31CE64CC2005E2537 /* Sudoku Final */,
+				612720D21CE64CC2005E2537 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		612720D21CE64CC2005E2537 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				612720D11CE64CC2005E2537 /* Sudoku Final */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		612720D31CE64CC2005E2537 /* Sudoku Final */ = {
+			isa = PBXGroup;
+			children = (
+				612720D41CE64CC2005E2537 /* main.cpp */,
+				61ADFA8A1CEAED96003CEDE1 /* 1 */,
+				61ADFA8B1CEAED96003CEDE1 /* 2 */,
+				61ADFA8C1CEAED96003CEDE1 /* 3 */,
+				61ADFA8D1CEAED96003CEDE1 /* 4 */,
+				61ADFA8E1CEAED96003CEDE1 /* 5 */,
+				61ADFA8F1CEAED96003CEDE1 /* 6 */,
+				61ADFA901CEAED96003CEDE1 /* 7 */,
+				61ADFA911CEAED96003CEDE1 /* 8 */,
+				61ADFA921CEAED96003CEDE1 /* 9 */,
+				61ADFA931CEAED96003CEDE1 /* 10 */,
+				61ADFA941CEAED96003CEDE1 /* 11 */,
+				61ADFA951CEAED96003CEDE1 /* 12 */,
+				61ADFA961CEAED96003CEDE1 /* 13 */,
+				61ADFA971CEAED96003CEDE1 /* 14 */,
+				61ADFA981CEAED96003CEDE1 /* 15 */,
+				61ADFA991CEAED96003CEDE1 /* 16 */,
+				61ADFA9A1CEAED96003CEDE1 /* 17 */,
+				61ADFA9B1CEAED96003CEDE1 /* 18 */,
+				61ADFA9C1CEAED96003CEDE1 /* 19 */,
+				61ADFA9D1CEAED96003CEDE1 /* 20 */,
+				61ADFA9E1CEAED96003CEDE1 /* 21 */,
+				61ADFA9F1CEAED96003CEDE1 /* 22 */,
+				61ADFAA01CEAED96003CEDE1 /* 23 */,
+				61ADFAA11CEAED96003CEDE1 /* 24 */,
+				61ADFAA21CEAED96003CEDE1 /* 25 */,
+				61ADFAA31CEAED96003CEDE1 /* 26 */,
+				61ADFAA41CEAED96003CEDE1 /* 27 */,
+				61ADFAA51CEAED96003CEDE1 /* 28 */,
+				61ADFAA61CEAED96003CEDE1 /* 29 */,
+				61ADFAA71CEAED96003CEDE1 /* 30 */,
+				61ADFAA81CEAED96003CEDE1 /* 31 */,
+				61ADFAA91CEAED96003CEDE1 /* 32 */,
+				61ADFAAA1CEAED96003CEDE1 /* 33 */,
+				61ADFAAB1CEAED96003CEDE1 /* 34 */,
+				61ADFAAC1CEAED96003CEDE1 /* 35 */,
+				61ADFAAD1CEAED96003CEDE1 /* 36 */,
+				61ADFAAE1CEAED96003CEDE1 /* 37 */,
+				61ADFAAF1CEAED96003CEDE1 /* 38 */,
+				61ADFAB01CEAED96003CEDE1 /* 39 */,
+				61ADFAB11CEAED96003CEDE1 /* 40 */,
+				61ADFAB21CEAED96003CEDE1 /* createNewFileTemplate.txt */,
+				61ADFAB41CEAED96003CEDE1 /* Products */,
+			);
+			path = "Sudoku Final";
+			sourceTree = "<group>";
+		};
+		61ADFAB41CEAED96003CEDE1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				61ADFAB31CEAED96003CEDE1 /* PROJECT4 */,
+			);
+			name = Products;
+			path = ../../PROJECT4;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		612720D01CE64CC2005E2537 /* Sudoku Final */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 612720D81CE64CC2005E2537 /* Build configuration list for PBXNativeTarget "Sudoku Final" */;
+			buildPhases = (
+				612720CD1CE64CC2005E2537 /* Sources */,
+				612720CE1CE64CC2005E2537 /* Frameworks */,
+				612720CF1CE64CC2005E2537 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Sudoku Final";
+			productName = "Sudoku Final";
+			productReference = 612720D11CE64CC2005E2537 /* Sudoku Final */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		612720C91CE64CC2005E2537 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Josh Gialis";
+				TargetAttributes = {
+					612720D01CE64CC2005E2537 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 612720CC1CE64CC2005E2537 /* Build configuration list for PBXProject "Sudoku Final" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				en,
+			);
+			mainGroup = 612720C81CE64CC2005E2537;
+			productRefGroup = 612720D21CE64CC2005E2537 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				612720D01CE64CC2005E2537 /* Sudoku Final */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		612720CD1CE64CC2005E2537 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				612720D51CE64CC2005E2537 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		612720D61CE64CC2005E2537 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		612720D71CE64CC2005E2537 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		612720D91CE64CC2005E2537 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		612720DA1CE64CC2005E2537 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		612720CC1CE64CC2005E2537 /* Build configuration list for PBXProject "Sudoku Final" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				612720D61CE64CC2005E2537 /* Debug */,
+				612720D71CE64CC2005E2537 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		612720D81CE64CC2005E2537 /* Build configuration list for PBXNativeTarget "Sudoku Final" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				612720D91CE64CC2005E2537 /* Debug */,
+				612720DA1CE64CC2005E2537 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 612720C91CE64CC2005E2537 /* Project object */;
+}
